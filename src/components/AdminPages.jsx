@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import {
-  StatCard, Alert, Badge, ProgressBar, Btn, SectionHeader,
+  StatCard, Alert, Badge, Btn, SectionHeader,
 } from './UI';
 import { computeProgress, progressColor, nowStr, exportToCSV } from '../utils';
 import { USERS, SCHEDULE } from '../data';

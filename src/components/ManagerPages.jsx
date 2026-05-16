@@ -3,7 +3,7 @@ import {
   StatCard, Alert, Badge, ProgressBar, Btn, Modal,
   FormGroup, Input, Select, Textarea, SectionHeader,
 } from './UI';
-import { computeProgress, nowStr } from '../utils';
+import { nowStr } from '../utils';
 import { THRUST_AREAS, USERS } from '../data';
 
 const TEAM_EMP_IDS = ['emp1', 'emp2', 'emp3'];
