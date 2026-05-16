@@ -27,13 +27,11 @@ npm run build
 | Employee | Arjun Sharma | arjun@local.com | employee | My Goals, Check-ins, Dashboard |
 | Manager | Priya Menon | priya@local.com | manager | Approvals, Team Goals, Shared Goals |
 | Admin | Rahul Gupta | rahul@local.com | admin | All Goals, Audit Log, Reports, Cycles |
-|---|---|---|---|---|
 
 #SignUp check Credential
 | Role | Name | Email | Password | Access |
 |---|---|---|---|---|
 | Employee |Rajesh Sharma | rajesh@check.com | employeecheck | My Goals, Check-ins, Dashboard |
-|---|---|---|---|---|
 
 ## Database
 
