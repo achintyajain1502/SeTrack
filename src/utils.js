@@ -32,6 +32,6 @@ export function exportToCSV(goals) {
   const csv = [header, ...rows].map(r => r.join(',')).join('\n');
   const a = document.createElement('a');
   a.href = 'data:text/csv;charset=utf-8,' + encodeURIComponent(csv);
-  a.download = 'AtomQuest_Goals_Report.csv';
+  a.download = 'SeTrack_Goals_Report.csv';
   a.click();
 }

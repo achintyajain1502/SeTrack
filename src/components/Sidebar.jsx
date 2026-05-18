@@ -9,7 +9,7 @@ export default function Sidebar({ role, user: signedInUser, currentPage, onNavig
     <aside className="sidebar">
       <div className="sidebar-logo">
         <div>
-          <div className="logo-text">⬡ AtomQuest</div>
+          <div className="logo-text">⬡ SeTrack</div>
           <div className="logo-sub">Goal Portal</div>
         </div>
       </div>

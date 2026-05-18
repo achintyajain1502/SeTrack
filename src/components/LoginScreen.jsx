@@ -29,7 +29,7 @@ export default function LoginScreen({ onLogin, onSignup }) {
       <form className="login-box" onSubmit={submit}>
         <div className="login-logo">Goal Setting &amp; Tracking Portal</div>
         <div style={{ fontSize: 13, fontWeight: 500, color: 'var(--text)', marginBottom: 4 }}>
-          AtomQuest
+          SeTrack
         </div>
         <div className="login-sub">
           {isSignup ? 'Create an employee account' : 'Sign in with your account'}

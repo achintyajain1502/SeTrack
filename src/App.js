@@ -167,7 +167,7 @@ export default function App() {
     <>
       <div className="login-screen">
         <div className="login-box">
-          <div className="login-logo">AtomQuest</div>
+          <div className="login-logo">SeTrack</div>
           <div className="login-sub" style={{ marginBottom: 0 }}>Connecting to database...</div>
         </div>
       </div>
